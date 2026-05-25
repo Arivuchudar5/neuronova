@@ -1,0 +1,8 @@
+
+{
+  "name": "NEUROCARE-AI",
+  "description": "An AI-powered Autism Care Clinical Assistant designed for early screening, risk estimation, and intervention guidance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
